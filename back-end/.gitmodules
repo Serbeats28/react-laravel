@@ -1,0 +1,3 @@
+[submodule "react-laravel"]
+	path = react-laravel
+	url = https://github.com/Serbeats28/react-laravel.git
